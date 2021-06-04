@@ -16,7 +16,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/hosting-websites-on-s3-exa
 
 -upload your html files on S3 bucket!
 
-[aws3](https://user-images.githubusercontent.com/69006438/120836411-d4f31000-c565-11eb-992f-20c3071cae00.PNG)
+![image](https://user-images.githubusercontent.com/69006438/120837368-e688e780-c566-11eb-9146-1aecb54dfaa0.png)
 
 -!!! now you are hosted your static web page on amazon S3
 
