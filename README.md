@@ -1,5 +1,5 @@
 # AWS
-create an amazon S3 bucket and use it to host a static web page 
+create an amazon S3 bucket and use it to host a static web page.
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/hosting-websites-on-s3-examples.html
 
 - create S3 bucket!
